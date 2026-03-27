@@ -29,6 +29,6 @@
 { "type": "Feature", "properties": { "fid": 23, "name": "Bahramcha", "status": "partially open", "description": "Open for Afghan returnees and deportees" }, "geometry": { "type": "Point", "coordinates": [ 64.14881, 29.40193 ] } },
 { "type": "Feature", "properties": { "fid": 24, "name": "Badini", "status": "closed", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 68.05009, 31.69324 ] } },
 { "type": "Feature", "properties": { "fid": 25, "name": "Ghulam Khan", "status": "closed", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 69.77066, 33.11878 ] } },
-{ "type": "Feature", "properties": { "fid": 26, "name": "Torkham", "status": "partially open", "description": "Only open for deportation" }, "geometry": { "type": "Point", "coordinates": [ 70.783, 33.96586 ] } }
+{ "type": "Feature", "properties": { "fid": 26, "name": "Torkham", "status": "closed", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.783, 33.96586 ] } }
 ]
 }
