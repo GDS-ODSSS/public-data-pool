@@ -32,6 +32,6 @@
 { "type": "Feature", "properties": { "fid": 26, "name": "Torkham", "status": "closed", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 70.783, 33.96586 ] } },
 { "type": "Feature", "properties": { "fid": 27, "name": "Arandu", "status": "closed", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 71.543938, 35.309965 ] } },
 { "type": "Feature", "properties": { "fid": 28, "name": "Astara", "status": "partially open", "description": "Open only for pre-cleared exceptions (e.g. third country nationals\/evacuees) and commercial traffic" }, "geometry": { "type": "Point", "coordinates": [ 48.87581, 38.44065 ] } },
-{ "type": "Feature", "properties": { "fid": 29, "name": "Bileh Savar", "status": "closed", "description": null }, "geometry": { "type": "Point", "coordinates": [ 48.36146, 39.38959 ] } }
+{ "type": "Feature", "properties": { "fid": 29, "name": "Bileh Savar", "status": "closed", "description": "" }, "geometry": { "type": "Point", "coordinates": [ 48.36146, 39.38959 ] } }
 ]
 }
